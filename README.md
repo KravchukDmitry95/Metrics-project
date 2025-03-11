@@ -23,3 +23,6 @@ In this project, I analyzed the subscription model of a mobile application using
 - The outflow factors were analyzed and the months with the largest drop in the number of paid users were identified.  
 - A dashboard was built to track changes in revenue, average check, number of new subscribers, and churn rates.  
 ![image](https://github.com/user-attachments/assets/d263a994-351e-44d5-9139-1bdc4e49a2f8)
+
+Link to the dashboard 
+https://public.tableau.com/views/ProjectKravchuk/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
